@@ -1,5 +1,5 @@
 # Todo-cli
-A lightweight and minimalistic command-line ToDo List application built with Golang. Easily manage your daily tasks right from the terminal — add new tasks, view them, mark as completed, or delete when done. Perfect for developers and terminal enthusiasts who prefer productivity without the clutter
+A simple and lightweight command-line ToDo List application written in Go — add, list, complete, and delete your tasks with ease, all from your terminal.
 
 ---
 
@@ -25,7 +25,7 @@ Follow these steps to get `todo-cli` running on your local machine.
 First, clone the project using Git, or download the ZIP manually.
 
 ```bash
-git clone https://github.com/your-username/todo-cli.git
+git clone https://github.com/h1ntz0/Todo-cli.git
 cd todo-cli
 ```
 
